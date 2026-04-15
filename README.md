@@ -3,7 +3,7 @@
 **Subra - Subscription & Bill Tracker**
 
 ## Support
-For help or questions email: abood@youremail.com
+For help or questions email: rudy24711@icloud.com
 
 ## Privacy Policy
 Subra does not collect or share any personal data. All subscription data is stored locally on your device. We do not use analytics, advertising, or third-party tracking.
